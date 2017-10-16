@@ -4,7 +4,7 @@ Simple facebook authentication app in Node adn express
 
 ## Steps
 
-### create App-id and paste
+### create App-id and paste in login.html
 
 link : https://developers.facebook.com/apps
 
